@@ -5,7 +5,7 @@ class App extends React.Component {
     return (
       <div>
         <p>TrybeTunes</p>
-        <p>Iniciando projeto</p>
+        <p>Iniciando projeto!</p>
       </div>
     );
   }
